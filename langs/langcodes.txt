@@ -1,0 +1,91 @@
+Afrikaans	South Africa	AF-ZA
+Albanian	Albaina	SQ-AL
+Arabic	Algeria	AR-DZ
+Arabic	Bahrain	AR-BH
+Arabic	Egypt	AR-EG
+Arabic	Iraq	AR-IQ
+Arabic	Jordan	AR-JO
+Arabic	Kuwait	AR-KW
+Arabic	Lebanon	AR-LB
+Arabic	Libya	AR-LY
+Arabic	Morocco	AR-MA
+Arabic	Oman	AR-OM
+Arabic	Qatar	AR-QA
+Arabic	Saudi Arabia	AR-SA
+Arabic	Syria	AR-SY
+Arabic	Tunisia	AR-TN
+Arabic	United Arab Emirates	AR-AE
+Arabic	Yemen	AR-YE
+Assamese	India	AS-IN
+Basque	Spain	EU-ES
+Bengali	India	BN-IN
+Bulgarian	Bulgaria	BG-BG
+Byelorussian	Beloruss	BE-BY
+Catalan	Spain	CA-ES
+Chinese	Hong Kong	ZH-HK
+Chinese	Simplified (PRC)	ZH-CN
+Chinese	Singapore	ZH-SG
+Chinese	Traditional (ROC)	ZH-TW
+Croatian	Croatia	HR-HR
+Czech	Czech Republic	CS-CZ
+Danish	Denmark	DA-DK
+Dutch	Belgian (Flemish)	NL-BE
+Dutch	Dutch (Standard)	NL-NL
+English	Australian	EN-AU
+English	United Kingdom	EN-GB
+English	Canadian	EN-CA
+English	Ireland	EN-IE
+English	Jamaican	EN-JM
+English	New Zealand	EN-NZ
+English	South Africa	EN-ZA
+English	US American	EN-US
+Estonian	Estonia	ET-EE
+Faeroese	Faero Islands	FO-FO
+Farsi	Iraq	FA-IR
+Finnish	Finnish	FI-FI
+French	Belgian	FR-BE
+French	Canadian	FR-CA
+French	French (Standard)	FR-FR
+French	Luxembourg	FR-LU
+French	Swiss	FR-CH
+German	Austrian	DE-AT
+German	German (Standard)	DE-DE
+German	Liechtenstein	DE-LI
+German	Luxembourg	DE-LU
+German	Swiss	DE-CH
+Greek	Greece	EL-GR
+Gujarati	India	GU-IN
+Hebrew	Israel	IW-IL
+Hindi	India	HI-IN
+Hungarian	Hungry	HU-HU
+Icelandic	Icelandic	IS-IS
+Indonesian	Indonesia	IN-ID
+Italian	Italian (Standard)	IT-IT
+Italian	Swiss	IT-CH
+Japanese	Japan	JA-JP
+Kannada	India	KN-IN
+Korean	Korea	KO-KR
+Latvian	Latvia	LV-LV
+Lithuanian	Lithuania	LT-LT
+Norwegian	Norwegian (Bokmal)	NO-NO
+Norwegian	Norwegian (Nynorsk)	NO
+Oriya	India	OR-IN
+Polish	Poland	PL-PL
+Portuguese	Portuguese (Brazilian)	PT-BR
+Portuguese	Portuguese (Standard)	PT-PT
+Punjabi	India	PA-IN
+Romanian	Romania	RO-RO
+Russian	Russia	RU-RU
+Russian	Ukraine (Russian)	RU-UA
+Slovak	Slovakia	SK-SK
+Slovenian	Slovenia	SL-SI
+Spanish	Mexican	ES-MX
+Spanish	Spanish (Modern)	ES-ES
+Spanish	Spanish (Standard/Traditional)	ES
+Swedish	Swedish	SV-SE
+Tamil	India	TA-IN
+Telugu	India	TE-IN
+Thai	Thailand	TH-TH
+Turkish	Turkey	TR-TR
+Ukrainian	Ukraine	UK-UA
+Urdu	India	UR-IN
